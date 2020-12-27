@@ -17,4 +17,4 @@ The application will start on port 4000
 * [POST] /api/patients - to upload CSV data to the app, process it and save it to DB.
 
 
-### The app is also hosted on heroku and can be accessible via this url : https://prod-patient-portal.herokuapp.com/
+### The app is also hosted on heroku and can be accessed via this url : https://prod-patient-portal.herokuapp.com/
