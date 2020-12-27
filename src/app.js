@@ -8,7 +8,7 @@ startServer = async () => {
 
   await loaders(app);
 
-  app.listen(4000, err => {
+  app.listen(PORT, err => {
     if (err) return err;
     console.log(`App running on port : ${PORT}`);
   });
